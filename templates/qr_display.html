@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generated</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <div class="container text-center mt-5">
+        <h1 class="mb-4">QR Code Generated Successfully!</h1>
+        <img src="data:image/png;base64,{{ qr_code }}" alt="QR Code" class="img-fluid mb-4" />
+
+        <div class="mt-4">
+            <a href="{{ url_for('download_jpeg', path=jpeg_path) }}" class="btn btn-primary">Download JPEG</a>
+            <a href="#" class="btn btn-secondary" onclick="window.history.back();">Generate Another</a>
+        </div>
+        
+        <footer class="mt-5">
+            <p class="text-muted">Created by Shravya N</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
