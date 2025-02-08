@@ -2,4 +2,5 @@ A web app utilizing Python, Flask and PyQRCode library, which generates QR Code 
 1. Clone the git repository
 2. Install flask
 3. Run python app.js
+   
 Access the Deployed webapp here : https://scanme-345qxh4yt-shravya-ns-projects.vercel.app
