@@ -17,7 +17,7 @@ Details Page - Enter all your details in this page and then generate QR Code
 
 
 This is where you can access the QR code, scan it and get your details. Also you can download the QR Code in JPEG Format.
-![Image](https://github.com/user-attachments/assets/dfeca24c-49bb-48c1-8237-57688612a005)
+![Image](https://github.com/user-attachments/assets/4a007a56-7c47-447e-8fbf-d16b0aaf12a9)
 
 
 Access the Deployed webapp here 
