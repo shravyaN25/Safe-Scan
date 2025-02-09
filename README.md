@@ -12,7 +12,7 @@ Tech Stack:
 2. Install flask
 3. Run python app.js
 
-Details Page - Enter all your details in this page and then QR Code
+Details Page - Enter all your details in this page and then generate QR Code
 ![login](https://github.com/user-attachments/assets/5bb6ffd9-1eca-44ba-8f01-ae74737cdfea)
 
 
