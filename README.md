@@ -21,4 +21,4 @@ This is where you can access the QR code, scan it and get your details. Also you
 
 
 Access the Deployed webapp here 
-Live link - https://scanme-345qxh4yt-shravya-ns-projects.vercel.app
+- Live link - https://scanme-345qxh4yt-shravya-ns-projects.vercel.app
